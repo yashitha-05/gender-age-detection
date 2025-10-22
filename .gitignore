@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+*.egg-info/
+
+# Data / models (don't commit large files)
+models/
+data/
+assets/*.mp4
+assets/*.gif
+
+# VS Code
+.vscode/
